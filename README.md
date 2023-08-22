@@ -15,10 +15,13 @@ words by prefix or suffix.
 **USED DATA STRUCTURES**
 
 Data Structures that are used in the project are as follows:
-->Binary Search Tree(BST) 
-->Graphs (Vectors)
-->Stack/Queue 
-->Array
 
+-Binary Search Tree(BST)
+
+-Graphs (Vectors)
+
+-Stack/Queue 
+
+-Array 
 
 
