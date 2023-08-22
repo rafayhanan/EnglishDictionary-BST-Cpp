@@ -1,0 +1,231 @@
+love: a strong feeling of affection; fondness and devotion
+affection: a gentle feeling of fondness or liking
+fondness: a feeling of liking or love
+devotion: dedication and commitment to something or someone
+passion: a strong and intense emotion
+happy: feeling or showing pleasure; content
+content: in a state of peaceful happiness
+joyful: feeling or showing great pleasure and happiness
+delighted: extremely pleased
+elated: very happy and excited
+large: of more than average size, amount, or degree
+big: of considerable size, amount, or degree
+huge: extremely large
+massive: very large and heavy
+enormous: extremely large
+fast: moving or able to move quickly
+quick: done or happening in a short time
+swift: happening quickly or promptly
+speedy: done or moving at a high speed
+rapid: happening quickly or done quickly
+easy: not difficult or challenging
+simple: easy to understand or do
+effortless: done with little or no effort
+straightforward: easy to understand or do; uncomplicated
+uncomplicated: easy to understand or do
+nice: pleasant, kind
+kind: having or showing a tender and considerate and helpful nature; used especially of persons and their behavior
+pleasant: causing happiness or pleasure
+good: having the qualities required for a particular purpose; satisfying
+agreeable: pleasing and acceptable to most people
+old: of long duration; not new
+aged: having lived for a long time; old
+antique: made in or typical of a previous era
+ancient: very old
+veteran: someone who has served in the military
+new: not existing before
+fresh: new or different and interesting
+modern: of or relating to the present or recent times
+current: happening or existing now
+recent: from the recent past
+good: having the qualities required for a particular purpose; satisfying
+great: very good
+excellent: of the highest quality
+superb: very good or excellent
+wonderful: very good; excellent
+bad: of poor quality; not good
+poor: having little money or few possessions
+inferior: of low or lower quality
+defective: not working properly
+flawed: having defects
+happy: feeling or showing pleasure; content
+content: in a state of peaceful happiness
+joyful: feeling or showing great pleasure and happiness
+delighted: extremely pleased
+elated: very happy and excited
+right: correct or in accordance with the facts, true or correct as a matter of fact.
+correct: free from error, accurate or exact.
+proper: appropriate or suitable in the circumstances.
+accurate: free from error or bias, and giving a true representation of the situation.
+appropriate: suitable or fitting for a particular purpose or occasion.
+wrong: not correct, not in accordance with the facts.
+incorrect: not right or true, not in accordance with the facts.
+flawed: having a defect, imperfect or faulty.
+mistaken: wrong or incorrect, based on a misunderstanding.
+erroneous: containing an error or mistake.
+strong: having the power to withstand great force or pressure.
+powerful: having or exerting great physical strength.
+robust: strong and healthy, able to withstand adverse conditions.
+sturdy: strongly and firmly built, able to withstand stress or pressure.
+durable: able to withstand wear and tear, long-lasting.
+weak: having little physical strength or energy.
+feeble: physically weak, lacking in power or energy.
+frail: physically weak, delicate, and easily broken.
+delicate: easily damaged or broken, fine and fragile.
+fragile: easily broken or damaged, delicate.
+hard: difficult to do or achieve, requiring great effort.
+difficult: not easy to do or achieve, requiring great effort.
+challenging: difficult or demanding, requiring great effort.
+tough: difficult to do or achieve, requiring great effort.
+hard-working: showing a willingness to work hard and put in effort.
+soft: not hard or stiff, pliant or supple.
+gentle: kind and mild in manner or behavior.
+pliant: easily bent or shaped, supple.
+supple: easily bent or shaped, pliant.
+yielding: easily bent or shaped, pliant.
+big: having considerable large size or amount
+large: having more than average size, amount, or number
+huge: extremely large in size or amount
+enormous: extremely large
+towering: very tall and imposing
+small: limited in size or amount
+tiny: very small
+little: small in size or amount
+miniature: very small or much smaller than usual
+petite: small and attractive
+happy: feeling or showing pleasure
+joyful: feeling or showing great pleasure
+content: satisfied or happy with the way things are
+delighted: very pleased
+pleased: feeling or showing pleasure
+sad: feeling or showing sorrow
+unhappy: feeling or showing sadness
+depressed: feeling sad and without hope
+gloomy: feeling or showing a state of melancholy
+melancholic: feeling or showing a state of great sadness
+heavy: having more weight than is usual or comfortable
+massive: very large and heavy
+weighty: having a lot of weight
+cumbersome: heavy and difficult to carry or use
+ponderous: heavy and difficult to move
+light: having little weight or being easy to lift
+little: small in size or amount
+insubstantial: not solid or strong
+weightless: having no weight
+featherweight: very light
+old: having lived for a long time
+aged: having lived for a particular length of time
+elderly: quite old
+mature: having reached full development or maturity
+ripe: fully developed or matured
+young: having lived or existed for only a short time
+juvenile: relating to young people or children
+new: not existing before; made or done recently
+fresh: new or different
+immature: not fully developed or mature
+fast: moving or able to move at high speed
+speedy: happening or done quickly
+swift: happening or done quickly
+quick: happening or done with little delay
+nimble: able to move quickly and easily
+slow: not happening or done quickly
+sluggish: not energetic or active
+lethargic: feeling sluggish and apathetic
+drowsy: feeling sleepy
+slothful: lazy and unwilling to do much work
+hot: having or giving off heat
+scorching: extremely hot
+sizzling: making a sound like that of something hot frying or sizzling
+torrid: extremely hot and humid
+blistering: extremely hot
+cold: having a low temperature
+frigid: extremely cold
+frozen: at or below freezing point
+icy: very cold
+chilly: unpleasantly cold
+wet: covered or soaked in water or another liquid
+damp: slightly wet
+moist: slightly wet
+soggy: wet and heavy
+saturated: having had as much liquid as it can hold
+dry: having no water or other liquid
+arid: extremely dry
+desiccated: dried out
+parched: extremely dry and needing water
+sere: dry and withered
+empty: having nothing inside
+barren: not able to produce children or fruit
+void: empty or not containing anything
+hollow: empty inside
+desolate: empty and uninhabited
+full: having an ample amount, completely filled
+stuffed: filled to excess, tightly packed
+brimming: filled to the point of overflowing
+congested: crowded or blocked with an excess of people or things
+crowded: having a lot of people in a confined space
+open: not closed or blocked off, accessible
+unlocked: not locked, able to be opened
+unsealed: not sealed, able to be opened
+unfastened: not fastened, able to be opened
+unclosed: not closed, able to be opened
+close: near in space or time, close together
+locked: secured with a lock, not able to be opened
+sealed: closed with a seal, not able to be opened
+fastened: secured or closed tightly, not able to be opened
+shut: closed tightly, not able to be opened
+high: at or to a great distance upward, elevated
+tall: having a greater height than usual or expected
+towering: very high, reaching great heights
+soaring: ascending or flying at a high altitude
+lofty: having a great height, elevated
+low: at or to a small distance upward, not high
+short: not tall, having little height
+squat: low and broad, having a wide base
+stunted: having a growth that has been hindered
+brief: lasting a short time, not long
+near: close in space or time, not far
+close: close in space or time, not far
+adjacent: being next to or near, neighboring
+proximate: being close in space or time, near
+immediate: happening or existing now, at this time
+far: at a great distance in space or time, not near
+distant: far away in space or time, remote
+removed: far away in space or time, distant
+divergent: moving in different directions, different
+separate: not together, apart
+right: correct, in accordance with fact or truth
+correct: free from error or fault, accurate
+just: fair and reasonable, equitable
+proper: appropriate, suitable
+admissible: able to be accepted or considered, permissible
+wrong: incorrect, not in accordance with fact or truth
+incorrect: not accurate or true, false
+mistaken: having a mistaken idea or belief
+errant: straying from the correct or proper course, deviating
+inapt: not appropriate or suitable, unqualified
+happy: feeling or showing pleasure, content
+joyful: feeling or showing great pleasure, delighted
+content: satisfied or pleased, fulfilled
+delighted: greatly pleased, thrilled
+pleased: feeling or showing pleasure, content
+unhappy: feeling or showing sadness, dispirited
+sad: feeling or showing sorrow, gloomy
+depressed: feeling or showing low spirits, dejected
+gloomy: feeling or showing low spirits, dismal
+melancholic: feeling or showing low spirits, gloomy
+good: having positive qualities, favorable
+great: having positive qualities, admirable
+excellent: having positive qualities, outstanding
+nice: having positive qualities, pleasant
+pleasant: having positive qualities, nice
+bad: having negative qualities, unfavorable
+terrible: having negative qualities, horrible
+horrible: having negative qualities, terrible
+awful: having negative qualities, very bad
+dreadful: having negative qualities, very bad
+cat:an animal
+rat:an animal
+sat:past tense of "sit"
+evil:someone with sinister intentions
+evil:someone with sinister intentions
+zebra:an animal
