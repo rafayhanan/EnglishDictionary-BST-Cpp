@@ -24,4 +24,8 @@ Data Structures that are used in the project are as follows:
 
 -Array 
 
+**STORAGE** 
+
+For storage of dictionary, file handling and BSTs have been used.
+
 
