@@ -12,11 +12,13 @@ typographical error, the system features a spellchecker function to correct the 
 Additionally, the system also provides suggestions for similar words, and the ability to search for 
 words by prefix or suffix.
 
-**USED DATA STRUCTURES** 
-Data Structures that are used in the project are as follows: 
- Binary Search Tree(BST) 
- Graphs (Vectors)
- Stack/Queue 
- Array
+**USED DATA STRUCTURES**
+
+Data Structures that are used in the project are as follows:
+->Binary Search Tree(BST) 
+->Graphs (Vectors)
+->Stack/Queue 
+->Array
+
 
 
